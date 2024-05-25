@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: it's tempest!!
+    name: kttdocomo
     env: python
     region: Oregon
     plan: free
