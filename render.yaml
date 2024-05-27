@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: kttdocomo
+    name: yk1929_tempest
     env: python
     region: Oregon
     plan: free
